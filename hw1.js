@@ -1,5 +1,5 @@
 'use strict'
- cconst imageTraffic = document.querySelector('.drag');
+ const imageTraffic = document.querySelector('.drag');
 
 
 
